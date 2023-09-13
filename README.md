@@ -4,7 +4,7 @@
 
 ##### 2) Скачать [Apache Hadoop](https://hadoop.apache.org/releases.html) и распаковать.
 
-##### 3) Скачать [winutils](https://github.com/steveloughran/winutils) и заменить папку bin hadoop на скаченную.
+##### 3) Скачать [winutils](https://github.com/steveloughran/winutils) и заменить папку bin hadoop на скачанную.
 
 ##### 4) Активировать виртуальное окружение
     
